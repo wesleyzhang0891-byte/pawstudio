@@ -43,3 +43,6 @@
 - 完整性指纹：每次保存记录 SHA-256 校验码，可用于核对内容是否被外部改动
 - 自动备份：定期为每个点生成历史快照，可回溯
 - 不锁定：正文以纯 Markdown 文件存储，可用任何编辑器打开
+
+<img width="1080" height="1452" alt="c1b32eb771db72a5edf93ff7c7a27682" src="https://github.com/user-attachments/assets/d332b57b-3656-4562-9080-dcf662dd6f19" />
+
